@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis Project 🛒💼
+# Crystallnsight 🛒💼
 
 Welcome to my E-Commerce Sales Analysis project! This repository contains valuable insights and visualizations about our e-commerce sales data. 
 
